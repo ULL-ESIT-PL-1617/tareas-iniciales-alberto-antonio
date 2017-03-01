@@ -1,8 +1,8 @@
 # Índice
 
-* [Introduction](README.md)
+* [Introducción](README.md)
 
-* [Capítulo 1 - Informacion Personal](capitulo1/README.md)
+* [Capítulo 1 - Información Personal](capitulo1/README.md)
 
 * [Capítulo 2 - NodeJS](capitulo2/README.md)
 
