@@ -27,14 +27,14 @@
     
 	    __sudo apt-get install npm__
 
-    ### Node en Windows y MacOS
+### Node en Windows y MacOS
     
     1) La forma más sencilla para instalar Node.js en Windows es recurrir al instalador disponible en la página web oficial
       [Instalar Nodejs](https://nodejs.org/en/download/)
    
     2) Al entrar vemos que nos salen varias opciones seleccionamos la que necesitemos segun nuestro sistema operativo
       ![Imagen Paso 2](/selectnode.png)
-      ![Imagen paso 1](../images/paso1.png)
+
     3) Ejecutamos el Archivo Descargado y le damos a ejecutar
         ![Imagen Paso 3](/install.png)
     4) Al estar todo automatizado basta con darle a siguiente. para finalizar la instalacion
