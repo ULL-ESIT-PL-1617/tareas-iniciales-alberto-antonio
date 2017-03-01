@@ -31,11 +31,11 @@
     
     1) La forma más sencilla para instalar Node.js en Windows es recurrir al instalador disponible en la página web oficial
       [Instalar Nodejs](https://nodejs.org/en/download/)
-     
+   
     2) Al entrar vemos que nos salen varias opciones seleccionamos la que necesitemos segun nuestro sistema operativo
-      !(/capitulo2/selectnode.png)
+      ![Imagen Paso 2](/capitulo2/selectnode.png)
     
     3) Ejecutamos el Archivo Descargado y le damos a ejecutar
-        !(/capitulo2/install.png)
+        ![Imagen Paso 3](/capitulo2/install.png)
     4) Al estar todo automatizado basta con darle a siguiente. para finalizar la instalacion
     
