@@ -1,4 +1,4 @@
-# Capítulo 2: GitHub
+# Capítulo 3: GitHub
 
 ## ¿Qué es GitHub?
 
