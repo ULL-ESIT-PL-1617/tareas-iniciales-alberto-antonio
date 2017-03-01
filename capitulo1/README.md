@@ -23,3 +23,16 @@ en [GitHub](https://github.com) que veremos con más detalle en capítulos sigui
 * Elegimos nuestra imagen y actualizamos el perfil:
 
    ![Imagen paso 3](../images/paso3.png)
+
+Con esto ya quedaría actualizada la foto en nuestro campus virtual.
+
+## Pagina personal alojada en GitHub
+
+* Creamos un repositorio en nuestra cuenta de GitHub en la que el nombre del repositorio
+coincida con el nombre de usuario. Ejemplo: **nombre_usuario.github.io**.
+
+* Una vez creado el repositorio habría que crear una rama **"gh-pages"** y empujar desde
+ésta todos los ficheros .html al repositorio.
+
+* Ahora podríamos acceder a la pagina web, escribiendo **"nombre_usuario.github.io"**
+en la barra de direcciones.
