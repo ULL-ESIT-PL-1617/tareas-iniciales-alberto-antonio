@@ -76,4 +76,25 @@ En MarkDown quedaría así:
          ***negrita y cursiva***
       ***negrita y cursiva***
 
-* ##
+* ## Links
+ Para colocar enlaces utilizamos los corchetes \[ \] para encerrar el texto a
+ mostrar de nuestro enlace y los paréntesis \( \) para indicar el enlace.
+ Tambien podemos poner links automaticos encerrandolos directamente entre \< \>.
+ - Ejemplo:
+         [GitHub](http://www.github.com)
+         o
+         <www.github.com>
+
+      [GitHub](http://www.github.com)
+
+      o
+
+      <http://www.github.com>
+
+* ## Imagenes
+Podemos colocar imágenes en nuestro texto de manera muy similar a los links.
+La manera mas rápida de verlo es con un ejemplo. Se utilizará el carácter \!.
+ - Ejemplo:
+         ![Not Found](ruta/de/la/imagen)
+      En este caso lo que va entre corchetes es lo que se mostrará si no se
+      encuentra la imagen, y entre paréntesis va la ruta de la imagen.
