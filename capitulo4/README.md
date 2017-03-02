@@ -98,3 +98,5 @@ La manera mas rápida de verlo es con un ejemplo. Se utilizará el carácter \!.
          ![Not Found](ruta/de/la/imagen)
       En este caso lo que va entre corchetes es lo que se mostrará si no se
       encuentra la imagen, y entre paréntesis va la ruta de la imagen.
+
+[Siguiente capítulo](../capitulo5/README.md)
