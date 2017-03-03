@@ -9,7 +9,7 @@ el desarrollo de proyectos.
 
 ## Componentes del equipo
 
-* [Antonio Jesús López Garnier](AntonioGarnier.github.io)
+* [Antonio Jesús López Garnier](https://AntonioGarnier.github.io)
 
 * Alberto Antonio Sarabia Suarez
 

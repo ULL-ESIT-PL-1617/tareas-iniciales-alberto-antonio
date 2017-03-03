@@ -1,4 +1,4 @@
-# GitHub Pages
+# Capítulo 6: GitHub Pages
 
 ## Introducción
 
@@ -6,7 +6,7 @@ GitHub Pages es una forma de alojar nuestros proyectos en una página web,
 sin necesidad de tener conocimientos en servidores. De hecho, es algo muy sencillo
 y que no te tomará más de 5 minutos configurar. En este tutorial se mostrará cómo hacerlo.
 
-## Como se Hace
+## ¿Como se Hace?
 
 1. Primero vamos a Crear un Nuevo repositori en GitHub para Nuestra pagina.
 ![RepositoriGit](../images/gitpag1.png)
