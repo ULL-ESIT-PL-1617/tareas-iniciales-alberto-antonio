@@ -1,5 +1,4 @@
 
-=======
 # Capítulo 2: NodeJS
 
 ## Introducción
@@ -13,7 +12,7 @@ el mundo.
 Node.js esta disponible para varias plataformas, en este tutorial nos vamos a
 centrar en la instalación de Node.js para Mac.
 
-## Instalación
+##.Instalación
 
 Para la instalación en Mac los pasos a seguir son muy sencillos:
  * Accedemos a la pagina web de Node.js.
