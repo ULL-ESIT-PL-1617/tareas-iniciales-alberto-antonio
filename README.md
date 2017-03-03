@@ -13,4 +13,4 @@ el desarrollo de proyectos.
 
 * Alberto Antonio Sarabia Suarez
 
-[Primer capítulo](../capitulo1/README.md)
+[Primer capítulo](capitulo1/README.md)
