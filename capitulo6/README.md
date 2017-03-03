@@ -9,7 +9,7 @@ y que no te tomará más de 5 minutos configurar. En este artículo te mostraré
 ## Como se Hace
 
 -1) Primero vamos a Crear un Nuevo repositori en GitHub para Nuestra pagina.
-![RepositoriGit](/../images/gitpag1.png)
+![RepositoriGit](../images/gitpag1.png)
 
 -2) A partir de aqui es igual que un repositorio normal solo tenemos que enlazarlo y hacer nuestros commit
 como normalmente lo hariamos. 
