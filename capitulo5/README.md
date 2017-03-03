@@ -13,3 +13,7 @@ publicarlos de forma online via Github o cualquier otro hosting web.
 -2) En la pagina Directamente nos pide los datos de usuario y si presionamos el boton
     sing up nos registraremos.
     ![Web GitBook](../images/gitbook.png)
+-3) Ahora nos dirigue a una pagina en la que nos da la opcion de seguir el manual , nos enseña la api de desarrolladores
+    y las base de conocimientos.
+    ![Web GitBook](../images/gitbook2.png)
+-4) Seleccionamos una , Nos pedira el Nombre y seleccionamos Create Book , con esto ya tendriamos creado nuestro Gitbook
