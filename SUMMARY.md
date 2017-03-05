@@ -12,4 +12,4 @@
 
 * [Capítulo 5 - GitBook](capitulo5/README.md)
 
-* [Capítulo 6 - Gh-pages](capitulo6a/README.md)
+* [Capítulo 6 - Gh-pages](capitulo6/README.md)
